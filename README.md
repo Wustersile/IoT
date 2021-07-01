@@ -9,11 +9,11 @@
 
 
 ### Итоговый результат 
-![](p/1.png)
+![](resources/station_final_res.mp4)
 
 ### Вывод значений на дисплей
-![](p/1.png)
+![](resources/station_oled_res.png)
 
 ### Графическое приложение 
-![](p/1.png)
+![](resources/station_desktop_res)
 
